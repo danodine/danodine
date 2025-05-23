@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm David Nodine!
 
-I'm a **creative and adaptable Software Engineer** from Ecuador 🇪🇨, currently based in Hamburg, Germany 🇩🇪. With experience building high-quality web and mobile applications, I specialize in frontend development using **React**, **React Native**, **Redux**, and **TypeScript**. I love solving complex problems, creating seamless user experiences, and collaborating in cross-functional teams.
+I'm a **creative and adaptable Software Engineer** from Ecuador 🇪🇨, currently based in Hamburg, Germany 🇩🇪. With experience building high quality web and mobile applications, I specialize in frontend development using **React**, **React Native**, **Redux**, and **TypeScript**. I love solving complex problems, creating seamless user experiences, and collaborating in cross-functional teams.
 
 ## 🚀 About Me
 
