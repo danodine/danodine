@@ -42,7 +42,6 @@ Git, GitHub, Postman, Docker, SonarCloud, Apache Cordova, Jira, Storybook
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/davidnodine)
-- 🧑‍💻 [GitHub](https://github.com/danodine)
 
 ---
 
